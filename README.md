@@ -84,7 +84,7 @@ O sistema irá perguntar:
 
 - Verifica todas as pastas e rostos conhecidos
 - Exibe:
-  - 🔵 Quadrado azul + nome + nome da pasta (ex: `João - mixitaim`)
+  - 🔵 Quadrado azul + nome + nome da pasta (ex: `João - loja01`)
   - 🔴 Alerta com som + **pop-up com motivo** se estiver na pasta `alerta`
 
 ---
