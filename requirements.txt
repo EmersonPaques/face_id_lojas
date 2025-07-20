@@ -1,0 +1,6 @@
+insightface
+onnxruntime-gpu
+numpy
+opencv-python
+mss
+pytesseract

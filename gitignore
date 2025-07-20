@@ -1,0 +1,30 @@
+# Ambientes virtuais
+venv/
+.env/
+
+# Arquivos temporários do sistema
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Modelos baixados por InsightFace (cache)
+.insightface/
+
+# Arquivos de dados e embeddings
+data/**/embeddings.pkl
+data/**/*.jpg
+*.npz
+*.csv
+
+# Configuração local
+config.json
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
