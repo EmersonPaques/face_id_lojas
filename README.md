@@ -21,11 +21,11 @@ face_id_lojas/
 ├── run.sh / run.bat         # Scripts de execução automática Linux / Windows
 ├── .gitignore               # Ignora venv, imagens e cache
 └── data/
-    ├── mixitaim/            # Exemplo de loja
-    │   ├── katreleen_1.jpg
+    ├── loja01/            # Exemplo de loja
+    │   ├── funcionario_1.jpg
     │   ├── embeddings.pkl
     └── alerta/              # Pasta especial para pessoas com ocorrências
-        ├── joana_1.jpg
+        ├── suspeito_1.jpg
         ├── embeddings.pkl
 ```
 
